@@ -6,9 +6,9 @@ Proyecto que reconoce gestos de la mano en tiempo real con la cámara del comput
 
 **Video de funcionamiento:**
 
-[![Demo del proyecto](docs/demo-thumbnail.png)](docs/ACTIVIDAD4 VIDEO.mp4)
+[![Demo del proyecto](docs/demo-thumbnail.png)](docs/ACTIVIDAD4_VIDEO.mp4)
 
-> Si el video no se reproduce directamente en GitHub, descárgalo desde [`docs/ACTIVIDAD4 VIDEO.mp4`](docs/ACTIVIDAD4 VIDEO.mp4) o revisa el enlace alternativo: `<agregar enlace de YouTube/Drive si aplica>`.
+> Si el video no se reproduce directamente en GitHub, descárgalo desde [`docs/ACTIVIDAD4_VIDEO.mp4`](docs/ACTIVIDAD4_VIDEO.mp4) o revisa el enlace alternativo: `<agregar enlace de YouTube/Drive si aplica>`.
 
 **Montaje físico:**
 
