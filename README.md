@@ -14,7 +14,6 @@ Proyecto que reconoce gestos de la mano en tiempo real con la cámara del comput
 
 ![Montaje del circuito](docs/montaje.png)
 
-> Coloca el video (`demo.mp4`) y la imagen del montaje (`montaje.png`) dentro de una carpeta `docs/` en la raíz del repositorio para que se muestren correctamente en GitHub. GitHub no reproduce archivos de video de forma nativa en el README; si el archivo pesa poco, sube un `.gif` corto como alternativa, o enlaza a una plataforma externa (YouTube, Drive) usando la miniatura como portada clicable.
 
 ## Funcionalidades
 
@@ -179,4 +178,4 @@ Este proyecto se distribuye bajo la licencia MIT. Puedes modificarla según tus 
 
 ## Autor
 
-Desarrollado por <tu nombre> — [@tu-usuario](https://github.com/tu-usuario)
+Desarrollado por <Juan David Artunduaga Diaz> — [@JuanD001](https://github.com/JuanD001)
